@@ -42,6 +42,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import toBinaryString from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-uint16-base-to-binary-string@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/number-uint16-base-to-binary-string/tags). For example,
+
+```javascript
 import toBinaryString from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-uint16-base-to-binary-string@v0.2.0-esm/index.mjs';
 ```
 
@@ -108,7 +113,7 @@ import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/i
 import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@esm/index.mjs';
 import Uint16Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-uint16@esm/index.mjs';
 import MAX_UINT16 from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-uint16-max@esm/index.mjs';
-import toBinaryString from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-uint16-base-to-binary-string@v0.2.0-esm/index.mjs';
+import toBinaryString from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-uint16-base-to-binary-string@esm/index.mjs';
 
 var x;
 var y;
