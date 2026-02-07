@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/number-uint16-base-to-binary-string",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Return a string giving the literal bit representation of an unsigned 16-bit integer.",
   "license": "Apache-2.0",
   "author": {
@@ -37,15 +37,15 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/math-base-special-floor": "^0.2.3",
+    "@stdlib/math-base-special-floor": "^0.2.4",
     "@stdlib/string-left-pad": "^0.2.2"
   },
   "devDependencies": {
     "@stdlib/array-uint16": "^0.2.2",
-    "@stdlib/assert-is-string": "^0.2.2",
-    "@stdlib/constants-uint16-max": "^0.2.2",
-    "@stdlib/math-base-special-round": "^0.3.0",
-    "@stdlib/random-base-randu": "^0.2.1",
+    "@stdlib/assert-is-string": "^0.2.3",
+    "@stdlib/constants-uint16-max": "^0.2.3",
+    "@stdlib/math-base-special-round": "^0.3.1",
+    "@stdlib/random-base-randu": "^0.2.2",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git",
